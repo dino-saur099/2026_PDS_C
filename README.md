@@ -48,7 +48,7 @@ ProjectInDataScience2026_ExamTemplate/
 │   ├── predictions/    # Probabilities outputed by the models
 │   └── report.pdf      # your report in PDF
 │ 
-├── main.py             # script to train or evaluate models (reference setup, remove in your hand-in)
+├── main.py             # script to train or evaluate models
 └── README.md
 ```
 
